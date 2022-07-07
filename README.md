@@ -18,9 +18,11 @@ Planowane materiały i wskaźnik postępu:
 10. Programowanie w logice (80%)
 11. Etyka w AI (1%)
 
-## Współpracownicy:
+## Współpracownicy
 
 - [Rafał Trójczak](https://www.linkedin.com/in/rafa-trjczak-a112b714b/)
+
+## Licencja
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
