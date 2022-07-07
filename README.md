@@ -4,6 +4,7 @@
 
 **AI dla każdego** to również nazwa serii książek dotyczących AI powstałych na podstawie stworzonych w projekcie notatników Jupytera.
 
+Planowane materiały i wskaźnik postępu:
 1. Język programowania Python (100%)
 2. Język programowania R (5%)
 2. Zarys historii AI (10%)
