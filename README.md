@@ -2,8 +2,6 @@
 
 **AI dla każdego** to nazwa projektu zainicjowanego i prowadzonego przez [Roberta Trypuza](https://www.linkedin.com/in/robert-trypuz-a1262617/). Celem projektu jest stworzenie materiałów służących do nauki AI. Tworzone materiały są notatnikami Jupytera, zawierają zarówno tekst jak i wykonywalny kod Pythona lub R. Dostępna jest również wersja PDF.
 
-**AI dla każdego** to również nazwa serii książek dotyczących AI powstałych na podstawie stworzonych w projekcie notatników Jupytera.
-
 Planowane materiały i wskaźnik postępu:
 1. Język programowania Python (100%)
 2. Język programowania R (5%)
