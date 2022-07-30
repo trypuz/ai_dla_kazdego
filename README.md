@@ -18,6 +18,7 @@ Planowane materiały i wskaźnik postępu:
 
 ## Współpracownicy
 
+- [Paweł Garbacz](https://www.linkedin.com/in/pawel-garbacz-3b041318/)
 - [Rafał Trójczak](https://www.linkedin.com/in/rafa-trjczak-a112b714b/)
 
 ## Licencja
